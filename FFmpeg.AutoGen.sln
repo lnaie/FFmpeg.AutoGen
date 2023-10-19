@@ -42,6 +42,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Legacy", "3. Legacy", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Abstractions", "2. Abstractions", "{1B9CC2D2-096F-4D35-8940-DA6344450430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp1", "TestConsoleApp1\TestConsoleApp1.csproj", "{AF9FBC36-05F1-4A8F-9771-312EE9C6E73E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{028113A5-39CE-40A2-9118-56E99F30B4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{028113A5-39CE-40A2-9118-56E99F30B4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{028113A5-39CE-40A2-9118-56E99F30B4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9FBC36-05F1-4A8F-9771-312EE9C6E73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9FBC36-05F1-4A8F-9771-312EE9C6E73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9FBC36-05F1-4A8F-9771-312EE9C6E73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9FBC36-05F1-4A8F-9771-312EE9C6E73E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +115,7 @@ Global
 		{ED2E790B-9233-40BC-BA66-E3291AAA9878} = {F969EEDD-27A8-434B-A438-39C48BBAEFE6}
 		{C272CD0A-E13B-4E80-8CA2-2BEC8396D8D0} = {F969EEDD-27A8-434B-A438-39C48BBAEFE6}
 		{028113A5-39CE-40A2-9118-56E99F30B4F8} = {F969EEDD-27A8-434B-A438-39C48BBAEFE6}
+		{AF9FBC36-05F1-4A8F-9771-312EE9C6E73E} = {660FBA30-C9C0-44A6-B4C5-1C5030ED271D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4BAFD2E8-8AAC-4483-B5FA-6E4C136A59F5}
